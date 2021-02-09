@@ -1,4 +1,4 @@
 ---
-title: "code stuff"
-date: 2020-8-02
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
