@@ -2,7 +2,7 @@ title: Your awesome title
 author: Garrey
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  nice changed. by thro
+  nice changed
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
